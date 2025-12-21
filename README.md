@@ -183,17 +183,16 @@ python3.11 stark-giu.py
 
 ---
 
-## 🏆 Credits & Authors
+## 🏆 Author
 
 <div align="center">
 
-### 👨‍💻 **Development Team**
+### 👨‍💻 **Developer**
 
-| Role | Name | Contribution |
-|------|------|-------------|
-| 🔧 **Developer & Maintainer** | **Shlok Sathe** | Enhanced STARK version, GitHub repository, documentation |
-| 📝 **Original Author** | **Sumalya Chatterjee** | Original HULK concept and base implementation |
-| 🤖 **AI Assistant** | **Kiro** | Code optimization, documentation, and technical support |
+**🔧 Shlok Sathe**
+- Enhanced STARK version
+- GitHub repository maintainer
+- Complete project development
 
 </div>
 
