@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
 <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
 <img src="https://img.shields.io/badge/License-Educational-green.svg" alt="License">
-<img src="https://img.shields.io/github/stars/shloksathe18-dotcom/STARK--DDOS-Attack-Tool?style=social" alt="GitHub Stars">
+<img src="https://img.shields.io/github/stars/shloksathe18-dotcom/STARK--DDOS-Attack--Tool?style=social" alt="GitHub Stars">
 
 **🔥 A powerful network stress testing tool inspired by Iron Man's STARK technology 🔥**
 
