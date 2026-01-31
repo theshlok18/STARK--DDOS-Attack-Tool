@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 STARK - Strategic Attack Response Kit
+# 🚀 STARK - Strategic Attack Response Kit. 
 
 <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
 <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
